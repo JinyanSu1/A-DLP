@@ -1,0 +1,4 @@
+algorithm:
+  length_ctrl:
+    lambda_init: 0.1        # starting λ
+    lr: 0.01                # dual-gradient step size
